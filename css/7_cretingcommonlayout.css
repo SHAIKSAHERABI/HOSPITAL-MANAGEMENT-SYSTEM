@@ -1,0 +1,22 @@
+body{
+    background-color: #80808075;
+}
+.container{
+    background-color: #fcc8e0;
+}
+.header{
+    border-bottom: 1px solid #e4e007;
+
+}
+.leftpanel{
+    background-color: rgb(148, 255, 127);
+    border-right: 1px solid #d381c5;
+}
+
+.rightpanel{
+    background-color: aquamarine;
+    border-left: 1px solid blueviolet;
+}
+.footer{
+    border-top: 1px solid red;
+}
